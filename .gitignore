@@ -1,2 +1,2 @@
-# Ignore large model files
-best_model_xception.keras
+*.keras
+*.hs
